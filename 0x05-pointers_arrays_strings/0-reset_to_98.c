@@ -2,8 +2,8 @@
 
 /**
  * 0-reset_to_98  - check the code 
- * the value it points to to 98
- * Return: Always 0.
+ * 
+ * Return: Always 98.
  */
 void reset_to_98(int *n)
 {
